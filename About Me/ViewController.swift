@@ -24,7 +24,7 @@ var favoriteFood = "🌯"
             My home town is \(myHometown) and I like the color \(favoriteColor).
             If you come visit, we will feast on all of the \(favoriteFood)s together!
             """
-            // triple quotes allow for multiline comments, can't comment within them though
+            // triple quotes allow for multiline string, can't comment within them though
             }
     }
     
